@@ -1,3 +1,20 @@
-#heatwave-img{
+img{
     float: right;
 }
+body{
+  font-size: 20px;
+  font-family: Comic Sans MS;
+}
+.part{
+  background-color: gray;
+    width: 90%;
+    height: 90%;
+    margin-left: 50px;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px 2px;
+padding: 25px;
+color: white;
+}
+
+
